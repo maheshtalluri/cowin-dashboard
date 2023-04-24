@@ -1,0 +1,43 @@
+/* Write your CSS here */
+
+* {
+  margin: 0;
+  font-family: 'Roboto';
+  box-sizing: border-box;
+}
+
+.bg-container {
+  background-color: #161625;
+  padding: 20px;
+}
+
+.logo-size {
+  width: 50px;
+}
+
+.cowin {
+  color: #2cc6c6;
+  font-size: 25px;
+  margin-left: 10px;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+  margin-left: 50px;
+  margin-top: 20px;
+}
+
+.para {
+  color: #cbd5e1;
+  font-size: 30px;
+  margin-top: 20px;
+  margin-left: 50px;
+}
+
+.loader {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
